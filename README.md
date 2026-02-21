@@ -1,6 +1,6 @@
 # Sistema-de-reserva-de-voo
 ## Problema
-    Enunciado: Crie um sistema simples de reservas de voos em C# que não dependa de bibliotecas externas. 
+    Crie um sistema simples de reservas de voos em C# que não dependa de bibliotecas externas. 
 O sistema deve permitir que os clientes visualizem voos disponíveis, escolham assentos, façam reservas e recebam confirmações. Além disso, o sistema deve permitir que a equipe da companhia aérea gerencie voos, registre informações sobre passageiros e faça alterações em reservas, se necessário.
 
 ## Resolução do problema
